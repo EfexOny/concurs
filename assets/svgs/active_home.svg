@@ -1,0 +1,9 @@
+<svg id="Home" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="63.158" viewBox="0 0 60 63.158">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.167" y1="0.171" x2="1" y2="0.959" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7e584"/>
+      <stop offset="1" stop-color="#4deeec"/>
+    </linearGradient>
+  </defs>
+  <path id="Home-2" data-name="Home" d="M20.98,59.312V49.627a4.479,4.479,0,0,1,4.467-4.463h9.076a4.48,4.48,0,0,1,4.5,4.463h0v9.657a3.888,3.888,0,0,0,3.874,3.874h6.192A10.926,10.926,0,0,0,56.8,60,10.769,10.769,0,0,0,60,52.35V24.84a7.81,7.81,0,0,0-2.828-6.007L36.136,2.129a9.838,9.838,0,0,0-12.5.225L3.054,18.832A7.813,7.813,0,0,0,0,24.84V52.322A10.875,10.875,0,0,0,10.914,63.158h6.051a3.888,3.888,0,0,0,2.757-1.116,3.832,3.832,0,0,0,1.145-2.729Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+</svg>
